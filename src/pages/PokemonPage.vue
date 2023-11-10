@@ -64,7 +64,7 @@ export default {
     }
   },
   mounted() {
-    this.mixPokemonArray();
+    this.mixPokemonArray()
   },
 };
 </script>
