@@ -25,6 +25,7 @@ export default {
 ul {
   list-style-type: none;
 }
+
 li {
   background-color: white;
   border-radius: 5px;

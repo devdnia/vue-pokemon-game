@@ -9,7 +9,7 @@
     <template v-if="showAnswer">
       <h2 class="fade-in">{{ message }}</h2>
       <button @click="newGame">
-        Nuevo juego
+        JUGAR
       </button>
     </template>
 
